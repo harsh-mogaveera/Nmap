@@ -114,7 +114,7 @@ nmap -O 192.168.x.x
 ##  Security Analysis
 
 * Systems with multiple open ports present a higher attack surface
-* Open services such as SMB and HTTP may expose vulnerabilities but for internet surface for home network can be safe
+* Open services such as SMB may expose vulnerabilities but for internet surface for home network can be safe
 * Filtered ports indicate firewall or security controls in place
 * Lack of services on common ports suggests reduced exposure
 
