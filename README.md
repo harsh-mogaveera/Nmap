@@ -76,7 +76,7 @@ nmap 192.168.x.0/24
 
 Performed a quick scan of common ports:
 
-``bash
+``bash:
 nmap -F 192.168.x.x
 ``
 
@@ -85,7 +85,7 @@ nmap -F 192.168.x.x
 
 Scanned selected ports for targeted analysis:
 
-``bash
+``bash:
 nmap -p 22,80,443 192.168.x.x
 ``
 
@@ -95,7 +95,7 @@ nmap -p 22,80,443 192.168.x.x
 
 Detects Operating System
 
-``bash
+``bash:
 nmap -O 192.168.x.x
 ``
 
